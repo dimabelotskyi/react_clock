@@ -1,0 +1,2 @@
+*{font-family:Arial,Helvetica,sans-serif}body{margin:0}.App{display:flex;align-items:center;flex-direction:column}.clock{border:3px solid #000;background-color:#faebd7;padding:10px 115px;margin-bottom:20px;margin-top:20px;text-align:center}.buttons{display:flex;flex-direction:column;grid-gap:20px;gap:20px;border-radius:50%;width:150px}.button{background-color:#2897c4;color:#fff;height:30px}.button:hover{opacity:1%;cursor:pointer}
+/*# sourceMappingURL=main.c853a22a.chunk.css.map */
